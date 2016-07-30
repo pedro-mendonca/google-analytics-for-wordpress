@@ -1,5 +1,5 @@
 # Google Analytics for WordPress by MonsterInsights
-==============================
+-------------------------------------
 
 Add Google Analytics to WordPress and be able to use all the powerful functions Google Analytics offers!
 
