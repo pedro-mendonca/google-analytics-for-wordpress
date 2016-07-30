@@ -12,7 +12,7 @@ You can download the free version on [WordPress.org](http://wordpress.org/plugin
 
 Right now we're in the middle of MonsterInsights 6.0.0 development. This update is going to bring long requested features, along with many bugfixes to our plugin.
 
-In the meantime, please continue reporting [bugs](https://github.com/Yoast/google-analytics-for-wordpress/issues/new) in our existing Lite plugin here on GitHub. 
+In the meantime, please continue reporting [bugs and feature requests](https://github.com/Yoast/google-analytics-for-wordpress/issues/new) in our existing Lite plugin here on GitHub. 
 
 # For Support
 
