@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Google Analytics by Yoast 5.5.2\n"
 "Report-Msgid-Bugs-To: https://github.com/yoast/google-analytics-for-"
 "wordpress/issues\n"
-"POT-Creation-Date: 2016-10-06 11:08+0100\n"
+"POT-Creation-Date: 2016-10-12 16:28+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
@@ -378,6 +378,10 @@ msgstr ""
 #: admin/pages/dashboard.php:101
 msgid "Select a dimension"
 msgstr "Seleccione uma dimensão"
+
+#: admin/pages/dashboard.php:264
+msgid "Download System Info File"
+msgstr "Descarregar ficheiro com informações do sistema"
 
 #: admin/pages/extensions.php:18
 msgid "Licenses"
